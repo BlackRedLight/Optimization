@@ -1,0 +1,128 @@
+Created by Mikhaylov Danila
+version 3.0
+Data saved
+Default data generated
+Program started
+0: Default
+Program started
+Program started
+0: Default
+1: Прямоугольный волновод
+2: Цилиндрический волновод
+3: Большой цилиндрический волновод
+Большой цилиндрический волновод:
+X:[176.  175.5 173.5 169.5 161.5]
+Y:[13.512 13.56  13.717 14.066 14.797]
+Guessing params
+Exponential params: [ 4.06501387e+01 -6.25874981e-03]
+Linear params: [-0.0885146  29.08410013]
+Using exponential function
+f(x) = 40.65 * e ^ -0.006 * x) + 0.003
+Sum of sqares = 0.0
+
+l - calculate L, f - calculate F, Enter - exit
+L = 160.50697948170418 mm
+l - calculate L, f - calculate F, Enter - exit
+Program ended successfuly
+Program started
+0: Default
+1: Прямоугольный волновод
+2: Цилиндрический волновод
+3: Большой цилиндрический волновод
+Большой цилиндрический волновод:
+X:[176.  175.5 173.5 169.5 161.5]
+Y:[13.512 13.56  13.717 14.066 14.797]
+Guessing params
+Exponential params: [ 4.06501387e+01 -6.25874981e-03]
+Linear params: [-0.0885146  29.08410013]
+Using exponential function
+f(x) = 40.65 * e ^ -0.006 * x) + 0.003
+Sum of sqares = 0.0
+
+l - calculate L, f - calculate F, Enter - exit
+L = 160.50697948170418 mm
+l - calculate L, f - calculate F, Enter - exit
+Program ended successfuly
+Program started
+0: Default
+1: Прямоугольный волновод
+2: Цилиндрический волновод
+3: Большой цилиндрический волновод
+Большой цилиндрический волновод:
+X:[176.  175.5 173.5 169.5 161.5]
+Y:[13.512 13.56  13.717 14.066 14.797]
+Guessing params
+Exponential params: [ 4.06501387e+01 -6.25874981e-03]
+Linear params: [-0.0885146  29.08410013]
+Using exponential function
+f(x) = 40.65 * e ^ -0.006 * x) + 0.003
+Sum of sqares = 0.0
+
+l - calculate L, f - calculate F, Enter - exit
+L = 160.60609223278945 mm
+L = -0.8939077672105498 mm
+l - calculate L, f - calculate F, Enter - exit
+F = 14.889881604843353 kHz
+dF = 0.0928816048433525 kHz
+l - calculate L, f - calculate F, Enter - exit
+Program ended successfuly
+Program started
+0: Default
+1: Прямоугольный волновод
+2: Цилиндрический волновод
+3: Большой цилиндрический волновод
+Большой цилиндрический волновод:
+X:[176.  175.5 173.5 169.5 161.5]
+Y:[13.512 13.56  13.717 14.066 14.797]
+Guessing params
+Exponential params: [ 4.06501387e+01 -6.25874981e-03]
+Linear params: [-0.0885146  29.08410013]
+Using exponential function
+f(x) = 40.65 * e ^ -0.006 * x) + -0.005
+Sum of sqares = 0.0
+
+l - calculate L, f - calculate F, Enter - exit
+F = 14.788 kHz
+dF = 0.722 kHz
+l - calculate L, f - calculate F, Enter - exit
+Program ended successfuly
+Program started
+0: Default
+1: Прямоугольный волновод
+2: Цилиндрический волновод
+3: Большой цилиндрический волновод
+Большой цилиндрический волновод:
+X:[176.  175.5 173.5 169.5 161.5]
+Y:[13.512 13.56  13.717 14.066 14.797]
+Guessing params
+Exponential params: [ 4.06501387e+01 -6.25874981e-03]
+Linear params: [-0.0885146  29.08410013]
+Using exponential function
+f(x) = 40.65 * e ^ -0.006 * x) + 0.003
+Sum of sqares = 0.0001355512604706652
+
+l - calculate L, f - calculate F, Enter - exit
+L = 160.606 mm
+L = -0.894 mm
+l - calculate L, f - calculate F, Enter - exit
+Program ended successfuly
+Program started
+0: Default
+1: Прямоугольный волновод
+2: Цилиндрический волновод
+3: Большой цилиндрический волновод
+Большой цилиндрический волновод:
+X:[176.  175.5 173.5 169.5 161.5]
+Y:[13.512 13.56  13.717 14.066 14.797]
+Guessing params
+Exponential params: [ 4.06501387e+01 -6.25874981e-03]
+Linear params: [-0.0885146  29.08410013]
+Using exponential function
+f(x) = 40.65 * e ^ (-0.006 * x) + 0.003
+Sum of sqares = 0.0001355512604706652
+
+l - calculate L, f - calculate F, Enter - exit
+F = 14.89 kHz
+dF = 0.093 kHz
+l - calculate L, f - calculate F, Enter - exit
+Program ended successfuly
